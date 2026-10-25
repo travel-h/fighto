@@ -10,7 +10,7 @@
         "share_message": "Share Message",
         "bottom_visible": "no",
         "msg_visible": "no",
-        "score_visible": "yes",
+        "score_visible": "no",
         "default_link": "",
         "cat_icons": "{\"Cricket\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/04\\\/crickettt.png\",\"Football\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/04\\\/fotballll.png\",\"Basketball\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/basketball.png\",\"Baseball\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/baseballl.png\",\"Mma\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/boxingg.png\",\"Rugby\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/04\\\/rugby70.png\",\"Motorsports\":\"https:\\\/\\\/sportzfy.com\\\/wp-content\\\/uploads\\\/2025\\\/03\\\/motorsportss.png\"}"
     }
