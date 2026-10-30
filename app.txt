@@ -2,7 +2,7 @@
     {
         "id": "1",
         "ads_data": "{\"sdk_key\":\"\",\"banner_ad_id\":\"\",\"inter_ad_id\":\"\",\"native_ad_id\":\"\"}",
-        "download_url": "https:\/\/example.com\/download.apk",
+        "download_url": "https:\/\/app.thestar15october.space\/",
         "web_url": "https:\/\/app.thestar15october.space\/",
         "app_version": "0",
         "message": "New update available!",
