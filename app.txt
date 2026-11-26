@@ -7,7 +7,7 @@
         "app_version": "0",
         "message": "New update available!",
         "message_url": "https:\/\/example.com\/update",
-        "share_message": "Download App now, App is not live yet in mean time you can visit website https:\/\/app.thestar15october.space\/",
+        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.therazganmes.fight",
         "bottom_visible": "no",
         "msg_visible": "no",
         "score_visible": "no",
